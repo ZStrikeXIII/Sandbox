@@ -1,3 +1,2 @@
 public enum EnumAlpha {
-  //Hello
 }
